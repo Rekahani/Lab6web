@@ -1,4 +1,4 @@
-# TUGAS PERTEMUAN 10 DAN PENJELASAN
+# PRAKTIKUM 6
 
 **Nama : Reka Hani Latifah Nurhasanah** <br>
 
