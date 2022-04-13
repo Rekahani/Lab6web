@@ -235,4 +235,4 @@
 
 Maka tampilan halaman akan seperti ini
 
-![1.png](/gambar/1.png)
+![1.png](/img/1.png)
